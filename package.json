@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiscordBraydon/brayonbot/issues"
   },
-  "homepage": "https://github.com/DiscordBraydon/brayonbot#readme"
+  "homepage": "https://github.com/DiscordBraydon/brayonbot#readme",
+  "dependencies": {
+    "eris": "^0.11.0"
+  }
 }
