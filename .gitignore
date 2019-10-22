@@ -1,3 +1,2 @@
 *.env
 
-/home/braydon/bbot/node_modules/eris/lib/gateway/*
